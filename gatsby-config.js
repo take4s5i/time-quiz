@@ -7,5 +7,5 @@
 module.exports = {
   /* Your site config here */
   plugins: ['gatsby-plugin-styled-components'],
-  pathPrefix: 'time-quiz',
+  assetPrefix: '/time-quiz/dist/',
 }
